@@ -2,6 +2,8 @@
 
 > Use svg.js and it's plugins in a vue project.
 
+![image][https://github.com/YuHao-KitPies/SvgVueDemo/tree/master/static/demo.png]
+
 ## Build Setup
 
 ``` bash
